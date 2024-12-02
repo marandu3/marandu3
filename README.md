@@ -87,4 +87,24 @@
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width
 ::contentReference[oaicite:0]{index=0}
- 
+
+ ---
+
+<h3 align="center" style="color:#2D4059;">📊 GitHub Stats</h3>
+<div align="center" style="background-color:#F0F0F0; border-radius: 8px; padding: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=marandu3&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marandu3&theme=radical" alt="GitHub Streak Stats" />
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marandu3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center" style="color:#6C63FF;">📂 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/marandu3/project-name" target="_blank">
+    <img src="https://img.shields.io/badge/-Project_Name-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Project Name" />
+  </a>
+  <!-- Add more project links -->
+</p>
