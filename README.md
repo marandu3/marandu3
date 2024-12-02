@@ -98,10 +98,8 @@
  <div style="background-color: #F0F0F0; border-radius: 8px; padding: 15px; display: inline-block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marandu3&theme=radical" alt="GitHub Streak Stats" />
 </div>
-
 <br></br>
 
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marandu3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
