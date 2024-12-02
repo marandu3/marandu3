@@ -95,17 +95,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marandu3&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br></br>
   
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marandu3&" alt="marandu3" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marandu3&" alt="marandu3" style="background-color:#F0F0F0; border-radius: 8px; padding: 15px;" /></p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marandu3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
-
-<h3 align="center" style="color:#6C63FF;">📂 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/marandu3/project-name" target="_blank">
-    <img src="https://img.shields.io/badge/-Project_Name-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Project Name" />
-  </a>
-  <!-- Add more project links -->
-</p>
