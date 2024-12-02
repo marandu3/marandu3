@@ -86,7 +86,7 @@
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width
-::contentReference[oaicite:0]{index=0}
+::contentReference[oaicite:0]{index=0} width="40" height="40"/>
 
  ---
 
