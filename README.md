@@ -95,9 +95,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marandu3&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br></br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marandu3&theme=radical" alt="GitHub Streak Stats" />
-</div>
-<p align="center">
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marandu3&show_icons=true&locale=en" alt="marandu3" /></p>
   <br></br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marandu3&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
