@@ -1,9 +1,7 @@
 <h1 align="center" style="color:#6C63FF;">Hi 👋, I'm Marandu</h1>
 <h3 align="center" style="color:#2D4059;">Computer Engineering Student & Passionate Software Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marandu3&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
