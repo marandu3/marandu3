@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="wpL7gFqvoDVrxPGs0DlHY89IoT_R-dyfJ4phRQkbFTc" />
 <h1 align="center" style="color:#6C63FF;">Hi 👋, I'm Marandu</h1>
 <h3 align="center" style="color:#2D4059;">Computer Engineering Student & Passionate Software Developer</h3>
 
